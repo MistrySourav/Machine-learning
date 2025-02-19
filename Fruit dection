@@ -1,1 +1,5 @@
-the Objection detection is fruit detection .which will identify fruits using Random Forest Classifier and K-Means clustering. you can use different dataset with different objects the code should perform the same
+the Objection detection is fruit detection .which will identify fruits using Random Forest Classifier and K-Means clustering.
+you can use different dataset with different objects the code should perform the same.
+you can use this code for anything to identify.
+1st you need a file named (train) file.which will hold most data which you will train with
+2nd yout need a file named (val) file.which will hold less data which you will test your trained data with
